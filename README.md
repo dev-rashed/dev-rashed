@@ -2,6 +2,7 @@
 <div>I am Md. Rashedul Islam. Always fresher. Learning new and developing myself. Studied Electrical and Electronics Engineering from Begum Rokeya University, Rangpur and I learn from here to learn from everywhere. I am still developing my skills in my interested field.</div>
 <hr>
 <p style="text-align:center">Technologies / Languages / Framework</p>
+
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
