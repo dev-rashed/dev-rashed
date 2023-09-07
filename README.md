@@ -1,12 +1,26 @@
-👋 Hi, I’m @dev-rashed <br>
-<div>I am always fresher. Learning new and developing myself. Studied Electrical and Electronics Engineering from Begum Rokeya University, Rangpur and I learn from here to learn from everywhere. I am still developing my skills in my interested field.</div>
-<hr>
-<p style="text-align:center">Technologies / Languages / Framework</p>
+👋 Hi there! I'm @dev-rashed, a passionate web developer with expertise in PHP, Laravel, WordPress, and React.
 
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+🌐 My Tech Stack:
+   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) I'm proficient in PHP and have built robust web applications and APIs using this versatile language.
+   - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) I specialize in the Laravel framework, crafting elegant solutions for complex problems.
+   - ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) I'm experienced in customizing and extending WordPress to create stunning websites and plugins.
+   - ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) I enjoy developing interactive and user-friendly interfaces using React.js.
+
+🚀 What I Do:
+   - Building scalable and efficient web applications.
+   - Crafting clean and maintainable code.
+   - Solving challenging technical problems.
+   - Collaborating with teams to bring ideas to life.
+
+💬 Let's Connect:
+   - Interested in collaborating or discussing web development? Feel free to reach out.
+
+🔗 Explore My Work:
+   - https://www.linkedin.com/in/developer-rashedul
+   - https://laravelcoder.com
+
+Thanks for stopping by! Let's code something amazing together! 😊
+
 <!---
 - Find Me
 
