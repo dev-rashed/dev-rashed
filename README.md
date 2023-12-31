@@ -15,7 +15,7 @@
 💬 Let's Connect:
    - Interested in collaborating or discussing web development? Feel free to reach out.
 
-🔗 Explore My Work:
+🔗 Explore Me:
    - https://www.linkedin.com/in/developer-rashedul
    - https://laravelcoder.com
 
